@@ -167,6 +167,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "758A_HolidayOfEquality", "7
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "466A_CheapTravel", "466A_CheapTravel\466A_CheapTravel.csproj", "{2912AA11-2B39-4C3D-9219-FE694A31D6A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1399A_RemoveSmallest", "1399A_RemoveSmallest\1399A_RemoveSmallest.csproj", "{837CBF19-0E0C-4859-854E-B84CA3A254A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -501,6 +503,10 @@ Global
 		{2912AA11-2B39-4C3D-9219-FE694A31D6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2912AA11-2B39-4C3D-9219-FE694A31D6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2912AA11-2B39-4C3D-9219-FE694A31D6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{837CBF19-0E0C-4859-854E-B84CA3A254A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837CBF19-0E0C-4859-854E-B84CA3A254A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837CBF19-0E0C-4859-854E-B84CA3A254A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837CBF19-0E0C-4859-854E-B84CA3A254A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
